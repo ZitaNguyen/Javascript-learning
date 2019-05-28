@@ -1,0 +1,22 @@
+body {
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+select {
+    background: transparent;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: green;
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+}
